@@ -1,2 +1,4 @@
-Uploading index.php
-Uploading index.php
+<?php 
+ echo 'ploading index.php
+Uploading index.php';
+?>
